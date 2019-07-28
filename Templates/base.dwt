@@ -1,0 +1,60 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="robots" content="noindex,nofollow">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>珈琲の世界</title>
+<!-- TemplateEndEditable -->
+<link rel="icon" href="favicon.ico">
+<meta name="author" content="全国アジャスト珈琲倶楽部">
+<!-- TemplateBeginEditable name="EditDescription" -->
+<meta name="description" content="珈琲の歴史と豆の種類を紹介するサイトです">
+<!-- TemplateEndEditable -->
+<link href="../css/reset.css" rel="stylesheet" type="text/css">
+<link href="../css/style.css" rel="stylesheet" type="text/css">
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+<!-- TemplateParam name="class" type="text" value="home" -->
+</head>
+
+<body class="@@(_document['class'])@@">
+
+<div class="wrapper">
+  <header>
+    <h1><a href="../index.html">珈琲の世界</a></h1>
+    <p>珈琲は珈琲豆を焙煎し挽いた粉末からお湯または<br>
+      水で成分を抽出した飲料で、<br>
+      多くの国で飲用されている嗜好飲料である。</p>
+  </header>
+  <nav class="global">
+    <ul>
+      <li><a href="../index.html"><span>TOP</span></a></li>
+      <li><a href="../catalog.html"><span>珈琲の種類</span></a></li>
+      <li><a href=""><span>珈琲の入れ方</span></a></li>
+      <li><a href=""><span>珈琲の楽しみ方</span></a></li>
+      <li><a href="" target="_blank"><span>珈琲ブログ</span></a></li>
+    </ul>
+  </nav>
+  <div class="content clearfix">
+    <article><!-- TemplateBeginEditable name="EditContent" -->
+
+    <!-- TemplateEndEditable --></article>
+    <aside>
+      <div class="ad"><img src="../images/coffeeFestival.png" width="210" height="186" alt="COFFEE FESTIVAL"/></div>
+      <div class="ad"><img src="../images/coffeeDay.png" width="210" height="350" alt="10月1日は珈琲の日"/></div>
+    </aside>
+  </div>
+  <footer>
+    <h2>珈琲の世界</h2>
+    <nav class="local">
+      <ul>
+        <li><a href="#">全国アジャスト珈琲倶楽部</a></li>
+        <li><a href="#">会員規約</a></li>
+        <li><a href="#">お問い合わせ</a></li>
+      </ul>
+    </nav>
+    <small>copylight &copy; adjust coffee co.ltd</small></footer>
+</div>
+</body>
+</html>
